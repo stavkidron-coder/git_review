@@ -1,0 +1,1 @@
+This project is to review Git and terminal commands.
